@@ -47,3 +47,20 @@ print(f"After one liner {top_earners}")
 squared_numbers = [x**2 for x in range(1, 11)]
 
 print(f"Squared numbers from 1 to 10: {squared_numbers}")
+
+# now lets take that list and try to do factorials of each number using recursion but the numbers are randomly generated.
+
+import random
+
+squared_integers = [random.randint(1, 10) for _ in range(20)]
+
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
+    
+factorials = [factorial(x) for x in squared_integers]
+
+print(f"Random squared integers: {squared_integers}")
+print(f"Factorials of those integers: {factorials}")
