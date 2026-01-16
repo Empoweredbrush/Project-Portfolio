@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# Projects", "C# Projects", "{B9558AED-251C-8337-F34B-AE78F04F0FA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C# learning programs", "C# learning programs", "{55B45EF0-053E-0522-F94A-EF4BC208D8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Python Learning Programs", "C# Projects\C# learning programs\Python Learning Programs.csproj", "{32DCE892-631D-9BBE-4DEE-B0A3AB61F2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DCE892-631D-9BBE-4DEE-B0A3AB61F2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DCE892-631D-9BBE-4DEE-B0A3AB61F2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DCE892-631D-9BBE-4DEE-B0A3AB61F2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DCE892-631D-9BBE-4DEE-B0A3AB61F2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{55B45EF0-053E-0522-F94A-EF4BC208D8AF} = {B9558AED-251C-8337-F34B-AE78F04F0FA2}
+		{32DCE892-631D-9BBE-4DEE-B0A3AB61F2FB} = {55B45EF0-053E-0522-F94A-EF4BC208D8AF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6B6300-3084-45F8-BACE-8B9ACC1C4E33}
+	EndGlobalSection
+EndGlobal

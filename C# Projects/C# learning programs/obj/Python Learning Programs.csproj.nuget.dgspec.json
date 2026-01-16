@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shonashby/Documents/GitHub/Project-Portfolio/Python Projects/Python Learning Programs/Python Learning Programs.csproj": {}
+    "/Users/shonashby/Documents/GitHub/Project-Portfolio/C# Projects/C# learning programs/Python Learning Programs.csproj": {}
   },
   "projects": {
-    "/Users/shonashby/Documents/GitHub/Project-Portfolio/Python Projects/Python Learning Programs/Python Learning Programs.csproj": {
+    "/Users/shonashby/Documents/GitHub/Project-Portfolio/C# Projects/C# learning programs/Python Learning Programs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shonashby/Documents/GitHub/Project-Portfolio/Python Projects/Python Learning Programs/Python Learning Programs.csproj",
+        "projectUniqueName": "/Users/shonashby/Documents/GitHub/Project-Portfolio/C# Projects/C# learning programs/Python Learning Programs.csproj",
         "projectName": "Python Learning Programs",
-        "projectPath": "/Users/shonashby/Documents/GitHub/Project-Portfolio/Python Projects/Python Learning Programs/Python Learning Programs.csproj",
+        "projectPath": "/Users/shonashby/Documents/GitHub/Project-Portfolio/C# Projects/C# learning programs/Python Learning Programs.csproj",
         "packagesPath": "/Users/shonashby/.nuget/packages/",
-        "outputPath": "/Users/shonashby/Documents/GitHub/Project-Portfolio/Python Projects/Python Learning Programs/obj/",
+        "outputPath": "/Users/shonashby/Documents/GitHub/Project-Portfolio/C# Projects/C# learning programs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shonashby/.nuget/NuGet/NuGet.Config"
